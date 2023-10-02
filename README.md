@@ -14,7 +14,7 @@ These dependencies can be installed using Composer.
 
 Configure the client by editing the `config.php` file with the appropriate values:
 
-- `$url`: The URL of the Odoo server. i.e: `$url = 'https://your-app.com/xmlrpc/2';`
+- `$url`: The URL of the Odoo server. i.e: `$url = 'https://your-app.com/xmlrpc/2';`. Please replace `your-app.com` with your domain. 
 - `$database`: The database to connect to.
 - `$user`: The username to use for authentication.
 - `$password`: The password to use for authentication.
