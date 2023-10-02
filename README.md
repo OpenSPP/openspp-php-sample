@@ -27,7 +27,9 @@ Configure the client by editing the `config.php` file with the appropriate value
 
 1. Run `composer install`.
 2. Edit the `config.php` file.
-3. To execute the application, deploy it on a web server that supports PHP, such as NGINX or Apache HTTPD Server, and then access the `apiclient.php` file through a web browser. 
+3. To execute the application, deploy it on a web server that supports PHP, such as NGINX or Apache HTTPD Server, and then access the `apiclient.php` file through a web browser.
+
+> Please ensure that the XML-RPC interface is enabled in your Odoo configuration for the proper functioning of this project.
 
 ## Compatibility
 
