@@ -1,4 +1,4 @@
-# PHP Odoo Client for OpenSPP
+# PHP Client for OpenSPP
 
 This project is a PHP-based Odoo client designed to interact with an OpenSPP Odoo server using XML-RPC. It provides functionalities to perform read and search_read operations on different Odoo models.
 
