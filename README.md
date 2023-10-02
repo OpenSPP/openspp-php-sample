@@ -8,11 +8,7 @@ This project is a PHP-based Odoo client designed to interact with an OpenSPP Odo
 - [laminas/laminas-xmlrpc](https://docs.laminas.dev/laminas-xmlrpc/) ^2.9
 - [laminas/laminas-http](https://docs.laminas.dev/laminas-http/) ^2.12
 
-These dependencies can be installed using Composer:
-
-```sh
-composer install
-```
+These dependencies can be installed using Composer.
 
 ## Configuration
 
