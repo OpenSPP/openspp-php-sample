@@ -25,7 +25,9 @@ Configure the client by editing the `config.php` file with the appropriate value
 
 ## Running the Application
 
-To run the application, execute the `apiclient.php`.
+1. Run `composer install`.
+2. Edit the `config.php` file.
+3. To run the application, execute the `apiclient.php`.
 
 ## Compatibility
 
